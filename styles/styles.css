@@ -5,3 +5,8 @@
 header {
     background-color: brown;
 }
+footer{
+    background-color: black;
+    padding-left: 120rem;
+    margin: 0.1rem;
+}
